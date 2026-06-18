@@ -1,6 +1,6 @@
-# Computer-Networks-Notes
+# Bachelor’s Degree in Computer Science notes
 
-Document with personal notes and resources for the **Computer Networks** course, taught by **Professor Leonardo Maccari** at **Ca' Foscari University of Venice** during the 2025-2026 academic year.
+Repository with personal notes and resources for the Bachelor’s Degree in Computer Science at Ca' Foscari University of Venice
 
 *Disclaimer: This repository is not affiliated with or endorsed by Ca' Foscari University of Venice.*
 
@@ -8,7 +8,7 @@ Document with personal notes and resources for the **Computer Networks** course,
 
 ## Intellectual Property Note
 
-Please note that this document may contain images, diagrams, or schemes taken directly from the official course slides or recommended textbooks (such as Kurose & Ross).
+Please note that these notes may contain resources as images, diagrams, or schemes taken directly from the official course slides or recommended textbooks 
 
 - These specific visual assets are not my property.
 - They are included for educational and illustrative purposes only, under "fair use" guidelines for personal study.
